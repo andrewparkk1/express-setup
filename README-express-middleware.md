@@ -2,5 +2,5 @@
 
 
 2 types of middleware use cases are seen
-* GLOBAL ** logger ** middleware: before every request
-* SCOPED ** auth ** middleware: only in /users? request
+* GLOBAL **logger()** middleware: before every request
+* SCOPED **auth()** middleware: only in /users? request
